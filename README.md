@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on Upskilling My Self<br>🌱 I’m currently learning DSA Using C++<br>
+<h1 align="center">Hi 👋, I'm Devraj Mewada</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrajmewada05&label=Profile%20views&color=0e75b6&style=flat" alt="devrajmewada05" /> </p>
+
+- 📫 How to reach me devrajmewada840@gmail.com <br>
+
+<br>
+🔭 I’m currently working on Upskilling My Self<br>
+🌱 I’m currently learning DSA Using C++<br>
 
 
 ## 🌐 Socials:
